@@ -9,12 +9,12 @@
 import Foundation
 
 
-struct StoryBrain {
-    let storyArray = [
-        Story(title: "You see a fork in the road.", choice1:"Take a left.", choice2:"Take a right.")
-    ]
-    
+//struct StoryBrain {
+//    let storyArray = [
+//        Story(title: "You see a fork in the road.", choice1:"Take a left.", choice2:"Take a right.")
+//    ]
+//    
 
     
 
-}
+//}
