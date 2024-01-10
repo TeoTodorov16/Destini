@@ -10,7 +10,6 @@ import Foundation
 
 struct Story {
     
-    
     let title: String
        let choice1: String
        let choice1Destination: Int  // Represents the index of the next story for choice 1
