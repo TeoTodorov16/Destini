@@ -25,3 +25,6 @@ struct Story {
        }
     
 }
+
+
+//Finishing the Story Logic

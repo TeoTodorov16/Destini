@@ -38,3 +38,7 @@ class ViewController: UIViewController {
     }
     
 }
+
+
+
+// Implementing the MVC Design Pattern.
