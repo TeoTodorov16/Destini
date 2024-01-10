@@ -59,5 +59,13 @@ struct StoryBrain {
         return stories[storyNumber].title
     }
     
+    func getChoiceText(for choice: Int) -> String {
+        if choice == 1 {
+            return stories[storyNumber].choice1
+        } else {
+            return stories[storyNumber].choice2
+        }
+    }
+}
 
 
