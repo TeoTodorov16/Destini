@@ -55,6 +55,9 @@ struct StoryBrain {
         }
     }
     
+    func getStoryTitle() -> String {
+        return stories[storyNumber].title
+    }
     
 
 
